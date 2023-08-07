@@ -1,0 +1,6 @@
+.env 
+node_modules
+draggable-setup/node_modules
+Mongoose set up/node_modules 
+react-setup/node_modules
+spellcheck-setup/node_modules
